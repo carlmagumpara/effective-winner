@@ -20,7 +20,7 @@ https://github.com/eslint/eslint
 ```
 https://github.com/danvk/source-map-explorer
 ```
-## Most Used React Helpers
+## Most used react helpers
 ```
 https://reactjs.org/docs/fragments.html
 https://reactjs.org/docs/error-boundaries.html
